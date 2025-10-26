@@ -1,6 +1,6 @@
 # SQL Music Service Analysis Project
 
-This repository contains a complete SQL project that models a music streaming service similar to Spotify. The project demonstrates database design, ETL (Extract, Transform, Load) processes, and data analysis using SQL Server.
+This repository contains a complete SQL project that models a music streaming service. The project demonstrates database design, ETL (Extract, Transform, Load) processes, and data analysis using SQL Server.
 
 A raw dataset of over 100,000 tracks from Kaggle was imported, cleaned, normalized into a relational database, and then analyzed.
 
@@ -110,4 +110,5 @@ ORDER BY
 | :--- | :--- |
 | jane_smith | 2 |
 | john_doe | 1 |
+
 | music_lover_99 | 1 |
